@@ -1,0 +1,584 @@
+Drug_Name,Drug_class,Drug_Pubchem_ID,Resistance_gene_class,Resistance_genes_involved,Bibliography 
+Acriflavine,Biocide,443101,Two Component system,acrAB-Tolc system,PMID: 24043404
+Acriflavine,Biocide,443101,Efflux pump,emrKY,PMID: 11566977
+Acriflavine,Biocide,443101,Efflux pump,bcr,PMID: 11566977
+Acriflavine,Biocide,443101,Efflux pump,mdfA,PMID: 9079913
+Acriflavine,Biocide,443101,Efflux pump,yjiO,PMID: 11566977
+Acriflavine,Biocide,443101,Efflux pump,acrEF,PMID: 11566977
+Acriflavine,Biocide,443101,Efflux pump,emrE,PMID: 11566977
+Amikacin,Aminoglycoside,37768,Efflux pump,acrD,PMID: 10692383 
+Amikacin,Aminoglycoside,37768,Two Component system,cpxRA,PMID: 12618449
+Amoxicillin,Beta Lactam: Penam,33613,Beta Lactamase,bla(TEM),PMID: 11751770
+Amoxicillin,Beta Lactam: Penam,33613,Beta Lactamase,bla(OXA-1),PMID: 11751770
+Amoxicillin,Beta Lactam: Penam,33613,Beta Lactamase,bla(SHV),PMID: 11751770
+Amoxicillin,Beta Lactam: Penam,33613,Beta Lactamase,ampC,PMID: 11751770
+Amoxicillin,Beta Lactam: Penam,33613,Beta Lactamase,CTX-M β-lactamases,PMID: 19402960
+Amoxicillin,Beta Lactam: Penam,33613,Horizontal Gene Transfer ,Class 1 Integron,PMID: 26889395
+Ampicillin,Beta Lactam: Penam,6249,Beta Lactamase,bla(TEM),PMID: 20374640
+Ampicillin,Beta Lactam: Penam,6249,Beta Lactamase,bla(SHV),PMID: 20374640
+Ampicillin,Beta Lactam: Penam,6249,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Ampicillin,Beta Lactam: Penam,6249,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Ampicillin,Beta Lactam: Penam,6249,Beta Lactamase,bla(CMY),PMID: 11709361
+Ampicillin,Beta Lactam: Penam,6249,Two Component system,acrAB-Tolc system,PMID: 8550435
+Apramycin,Aminoglycoside,3081545,Aminoglycoside modifying enzymes,aac(3)-IV,PMID: 19501867
+Azithromycin,Polyketide: Macrolides,447043,Efflux pump,MacAB-TolC,PMID: 11544226
+Azithromycin,Polyketide: Macrolides,447043,Deletion,crp,PMID: 18503189
+Aztreonam,Beta Lactam: Monobactam,5742832,Beta Lactamase,Bla(VIM-2),PMID: 15301681
+Aztreonam,Beta Lactam: Monobactam,5742832,Beta Lactamase,Bla(IBC-1),PMID: 15301681
+Bacitracin,Peptide drug,10909430,Undecaprenyl diphosphatase,ybjG,PMID: 23912810
+Bacitracin,Peptide drug,10909430,Undecaprenyl diphosphatase,pgpB,PMID: 23912810
+Bacitracin,Peptide drug,10909430,Phosphorylation of undecaprenol,bacA,PMID: 23912810
+Balofloxacin,Fluoroquinolone,65958,expressional alterations ,OmpC,PMID: 24412198
+Balofloxacin,Fluoroquinolone,65958,expressional alterations ,OmpF,PMID: 24412198
+Balofloxacin,Fluoroquinolone,65958,OMP,LamB,PMID: 24412198
+Benzalkonium,Biocide,23705,Efflux pump,mdfA,PMID: 9079913
+Benzalkonium,Biocide,23705,Efflux pump,emrKY,PMID: 11566977
+Benzalkonium,Biocide,23705,Efflux pump,emrD,PMID: 11566977
+Benzalkonium,Biocide,23705,Efflux pump,ydhE,PMID: 9661020
+Benzalkonium,Biocide,23705,Efflux pump,acrAB,PMID: 11566977
+Benzalkonium,Biocide,23705,Efflux pump,acrEF,PMID: 11566977
+Benzalkonium,Biocide,23705,Efflux pump,yhiUV,PMID: 11566977
+Benzalkonium,Biocide,23705,Efflux Pump,emrE,PMID: 11566977
+Benzalkonium,Biocide,23705,Drug transporter,evgA,PMID: 12618449
+Benzalkonium,Biocide,23705,Drug transporter,narL,PMID: 12618449
+Bicyclomycin,Peptide drug,426058,Efflux Pump,bcr,PMID: 8486276
+Carbenicillin,Beta Lactam: Penam,20824,Regulator,ydeP,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,Regulator,ydeO,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,Regulator,gadE,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,OMP,Slp-yhiF,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,OMP,hdeA,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,OMP,hdeD,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,Glutamate decarboxylase,gadA,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,Glutamate decarboxylase,gadB,PMID: 12694615
+Carbenicillin,Beta Lactam: Penam,20824,Encode a glutamate:γ-aminobutyrate antiporter,gadC,PMID: 12694615
+Carbonyl Cyanide m-chlorophenylhydrazone,Uncoupling agent,2603,Efflux Pump,emrAB,PMID: 11566977
+Carbonyl Cyanide m-chlorophenylhydrazone,Uncoupling agent,2603,Single frame-shift Mutation in the repressor ,emrR,PMID: 7730261
+Cefalotin,Beta Lactam: Cephem,6024,Horizontal Gene Transfer,Class 1 Integron,PMID: 26889395
+Cefalotin,Beta Lactam: Cephem,6024,Beta Lactamase,bla(CMY),PMID: 11709361
+Cefepime,Beta Lactam: Cephem,5479537,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Cefepime,Beta Lactam: Cephem,5479537,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Cefepime,Beta Lactam: Cephem,5479537,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Cefepime,Beta Lactam: Cephem,5479537,Beta Lactamase,bla(CMY),PMID: 19414578
+Cefepime,Beta Lactam: Cephem,5479537,Plasmid mediated Beta lactamase ,CMY-33,PMID: 19414578
+Cefepime,Beta Lactam: Cephem,5479537,Plasmid mediated Beta lactamase ,CMY-44,PMID: 19414578
+Cefepime,Beta Lactam: Cephem,5479537,Efflux pump,marA,PMID: 21048014
+Cefoselis,Beta Lactam: Cephem,5748845,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Cefoselis,Beta Lactam: Cephem,5748845,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Cefotaxime,Beta Lactam: Cephem,5742673,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Cefotaxime,Beta Lactam: Cephem,5742673,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Cefotaxime,Beta Lactam: Cephem,5742673,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Cefotaxime,Beta Lactam: Cephem,5742673,Beta Lactamase,Bla(CTX-M),PMID: 12111569
+Cefoxitin,Beta Lactam: Cephem,441199,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Cefoxitin,Beta Lactam: Cephem,441199,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Cefoxitin,Beta Lactam: Cephem,441199,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Cefoxitin,Beta Lactam: Cephem,441199,Beta Lactamase,Bla(VIM-2),PMID: 15301681
+Cefoxitin,Beta Lactam: Cephem,441199,Beta Lactamase,Bla(IBC-1),PMID: 15301681
+Cefpirome,Beta Lactam: Cephem,5479539,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Cefpirome,Beta Lactam: Cephem,5479539,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Cefradine,Beta Lactam: Cephem,38103,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Cefradine,Beta Lactam: Cephem,38103,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Ceftazidime,Beta Lactam: Cephem,5481173,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Ceftazidime,Beta Lactam: Cephem,5481173,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Ceftazidime,Beta Lactam: Cephem,5481173,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Ceftazidime,Beta Lactam: Cephem,5481173,Horizontal Gene Transfer,Class 1 Integron,PMID: 26889395
+Ceftiofur,Beta Lactam: Cephem,6328657,Beta Lactamase,Bla(CMY2),PMID: 16751500
+Ceftriaxone,Beta Lactam: Cephem,5479530,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Ceftriaxone,Beta Lactam: Cephem,5479530,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Cefuroxime,Beta Lactam: Cephem,5479529,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Cethromycin,Polyketide: Macrolides,447451,Mutation,U2609C of 23S rRNA,PMID: 11698379
+Cetrimide,Quaternary Ammonium Compounds,14250,Guanidinium exporter,sugE,PMID: 11948170
+Cetyldimethylethyl ammonium,Quaternary Ammonium Compounds,31280,Guanidinium exporter,sugE,PMID: 11948170
+Cetylpyridinium,Quaternary Ammonium Compounds,2683,Guanidinium exporter,sugE,PMID: 11948170
+Chloramphenicol,Chloramphenicol,5959,chloramphenicol acetyltransferase,cat1,PMID: 20374640
+Chloramphenicol,Chloramphenicol,5959,chloramphenicol acetyltransferase,cmlA,PMID: 20374640
+Chloramphenicol,Chloramphenicol,5959,chloramphenicol acetyltransferase,catII,PMID: 20374640
+Chloramphenicol,Chloramphenicol,5959,chloramphenicol acetyltransferase,catIII,PMID: 20374640
+Chloramphenicol,Chloramphenicol,5959,chloramphenicol acetyltransferase,cml,PMID: 20374640
+Chloramphenicol,Chloramphenicol,5959,Efflux pump,mdfA,PMID: 9079913
+Chloramphenicol,Chloramphenicol,5959,Efflux pump,acrAB,PMID: 8550435
+Chloramphenicol,Chloramphenicol,5959,Efflux pump,floR,PMID: 11101601
+Chloramphenicol,Chloramphenicol,5959,Efflux pump,AcrEF,PMID: 10518736
+Chloramphenicol,Chloramphenicol,5959,Efflux pump,ydhE,PMID: 9661020
+Chloramphenicol,Chloramphenicol,5959,Transmembrane transporter,yidY,PMID: 11566977
+Chloramphenicol,Chloramphenicol,5959,Efflux pump,yjiO,PMID: 11566977
+Chloramphenicol,Chloramphenicol,5959,Resistance gene Regulator,marA,PMID: 8866468
+Chloramphenicol,Chloramphenicol,5959,Resistance gene Regulator,marB,PMID: 8866468
+Chloramphenicol,Chloramphenicol,5959,Repressor,marR,PMID: 8866468
+Chlortetracycline,Polyketide: Tetracycline,54675777,negative regulation,LamB,PMID: 24412198
+Chlortetracycline,Polyketide: Tetracycline,54675777,Up-regulation,TolC,PMID: 20718490
+Chlortetracycline,Polyketide: Tetracycline,54675777,Down-regulation,OmpC,PMID: 20718490
+Chlortetracycline,Polyketide: Tetracycline,54675777,Down-regulation,FadL,PMID: 20718490
+Chlortetracycline,Polyketide: Tetracycline,54675777,Down-regulation,OmpT,PMID: 20718490
+Chlortetracycline,Polyketide: Tetracycline,54675777,Down-regulation,OmpW,PMID: 20718490
+Ciprofloxacin,Fluoroquinolone,2764,Mutations (D18E and S274F) in OmpC are responsible for antibiotic influx,OmpC,PMID: 29458656
+Ciprofloxacin,Fluoroquinolone,2764,EnvZ/OmpR two-component system,OmpR,PMID: 29458656
+Ciprofloxacin,Fluoroquinolone,2764,negative regulation,LamB,PMID: 24412198
+Ciprofloxacin,Fluoroquinolone,2764,Efflux pump,acrAB,PMID: 11083655
+Ciprofloxacin,Fluoroquinolone,2764,Horizontal Gene Transfer,Class 1 Integron,PMID: 26889395
+Ciprofloxacin,Fluoroquinolone,2764,Beta Lactamase,CTX-M β-lactamases,PMID: 19402960 
+Ciprofloxacin,Fluoroquinolone,2764,Efflux pump,Mutation in gyrA gene of Escherichia coli,PMID: 11083655
+Ciprofloxacin,Fluoroquinolone,2764,Chromosomal mutations in the genes encoding subunits of DNA gyrase enzyme,gyrA-gyrB,PMID: 27227291
+Ciprofloxacin,Fluoroquinolone,2764,Chromosomal mutations in the genes encoding subunits of topoisomerase IV enzyme,parC-parE,PMID: 27227291
+Clarithromycin,Polyketide: Macrolides,84029,Two Component system,acrAB-TolC,PMID: 15328143
+Clarithromycin,Polyketide: Macrolides,84029,Macrolide-specific efflux system,MacAB-TolC,PMID: 11544226
+Co-trimoxazole,Drug Cocktail,358641,Horizontal Gene Transfer,Class 1 Integron,PMID: 26889395
+Co-trimoxazole,Drug Cocktail,358641,Beta Lactamase,CTX-M β-lactamases,PMID: 19402960 
+Colicin E7,Biocide,NA,Mutation,OmpF,PMID: 21314918
+Colicin E7,Biocide,NA,Mutation,BtuB,PMID: 21314918
+Colicin E7,Biocide,NA,Deletion,TolQ,PMID: 21314918
+Colicin E7,Biocide,NA,Deletion,TolR,PMID: 21314918
+Colicin E7,Biocide,NA,Deletion,TolA,PMID: 21314918
+Colicin E7,Biocide,NA,Deletion,TolB,PMID: 21314918
+Colicin M,Biocide,NA,Mutation,fhuA,PMID: 8244949
+Crystal violet,Anthelminthic Drug,11057,Efflux pump,emrKY,PMID: 11566977
+Crystal violet,Anthelminthic Drug,11057,Efflux pump,acrAB,PMID: 11566977
+Crystal violet,Anthelminthic Drug,11057,Efflux pump,acrEF,PMID: 11566977
+Crystal violet,Anthelminthic Drug,11057,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Crystal violet,Anthelminthic Drug,11057,Efflux pump,emrE,PMID: 11566977
+Crystal violet,Anthelminthic Drug,11057,Deletion,crp,PMID: 18503189
+Crystal violet,Anthelminthic Drug,11057,Drug transporter,evgA,PMID: 12618449
+Crystal violet,Anthelminthic Drug,11057,Drug transporter,yjdG,PMID: 12618449
+Crystal violet,Anthelminthic Drug,11057,Drug transporter,narP,PMID: 12618449
+Crystal violet,Anthelminthic Drug,11057,Drug transporter,yehT,PMID: 12618449
+Crystal violet,Anthelminthic Drug,11057,Drug transporter,rstA,PMID: 12618449
+Daunomycin,Anthracycline,30323,Efflux pump,mdfA,PMID: 9079913
+Deoxycholate,Bile acid,222528,Efflux pump,emrKY,PMID: 11566977
+Deoxycholate,Bile acid,222528,Efflux pump,emrAB,PMID: 11566977
+Deoxycholate,Bile acid,222528,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Deoxycholate,Bile acid,222528,Efflux transmembrane transporter,yegMNOB,PMID: 11566977
+Deoxycholate,Bile acid,222528,Efflux pump,acrAB,PMID: 11566977
+Deoxycholate,Bile acid,222528,Efflux pump,acrEF,PMID: 11566977
+Deoxycholate,Bile acid,222528,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Deoxycholate,Bile acid,222528,Efflux pump,acrEF,PMID: 11566977
+Deoxycholate,Bile acid,222528,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Deoxycholate,Bile acid,222528,Transmembrane transporter,ydgFE,PMID: 11566977
+Deoxycholate,Bile acid,222528,Drug transporter,evgA,PMID: 12618449
+Deoxycholate,Bile acid,222528,Two Component system,baeRS,PMID: 12618449
+Deoxycholate,Bile acid,222528,Two Component system,CpxRA,PMID: 12618449
+Deoxycholate,Bile acid,222528,Drug transporter,yjdG,PMID: 12618449
+Deoxycholate,Bile acid,222528,Resistance gene Regulator,ompR,PMID: 12618449
+Deoxycholate,Bile acid,222528,Resistance gene Regulator,rcsB,PMID: 12618449
+Deoxycholate,Bile acid,222528,Drug transporter,narP,PMID: 12618449
+Deoxycholate,Bile acid,222528,Drug transporter,yehT,PMID: 12618449
+Doripenem,Beta Lactam: Carbapenem ,73303,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Doripenem,Beta Lactam: Carbapenem ,73303,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Doxorubicin,Anthracycline,31703,Efflux pump,emrKY,PMID: 11566977
+Doxorubicin,Anthracycline,31703,Multidrug resistance (MDR) translocator.,mdfA,PMID: 9079913
+Doxorubicin,Anthracycline,31703,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Doxorubicin,Anthracycline,31703,Efflux pump,acrAB,PMID: 11566977
+Doxorubicin,Anthracycline,31703,Efflux pump,acrEF,PMID: 11566977
+Doxorubicin,Anthracycline,31703,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Doxorubicin,Anthracycline,31703,Drug transporter,evgA,PMID: 12618449
+Doxorubicin,Anthracycline,31703,Drug transporter,narL,PMID: 12618449
+Enoxacin,Fluoroquinolone,3229,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Enoxacin,Fluoroquinolone,3229,Transmembrane transporter,yceL,PMID: 11566977
+Enoxacin,Fluoroquinolone,3229,Efflux pump,acrAB,PMID: 11566977
+Enoxacin,Fluoroquinolone,3229,Efflux pump,acrEF,PMID: 11566977
+Ertapenem,Beta Lactam: Carbapenem ,150610,Beta Lactamase,Bla(CTX-M-15),PMID: 22252797
+Ertapenem,Beta Lactam: Carbapenem ,150610,Beta Lactamase,Bla(CMY-6),PMID: 22252797
+Ertapenem,Beta Lactam: Carbapenem ,150610,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Ertapenem,Beta Lactam: Carbapenem ,150610,structural changes,ompR,PMID: 28264855
+Ertapenem,Beta Lactam: Carbapenem ,150610,mutation,marR,PMID: 28264855
+Ertapenem,Beta Lactam: Carbapenem ,150610,16S rRNA methylase,armA,PMID: 22252797
+Erythromycin,Polyketide: Macrolides,12560,Efflux pump,mdfA,PMID: 9079913
+Erythromycin,Polyketide: Macrolides,12560,Efflux pump,EmrE protein,PMID: 9710669
+Erythromycin,Polyketide: Macrolides,12560,Mutation,Mutations in the tentacles of L4 and L22 proteins of Escherichia coli’s larger ribosomal subunit confer macrolide resistance,PMID: 17956547
+Erythromycin,Polyketide: Macrolides,12560,Two Component system,acrAB-TolC,PMID: 15328143
+Erythromycin,Polyketide: Macrolides,12560,Efflux Pump,acrEF,PMID: 10518736
+Erythromycin,Polyketide: Macrolides,12560,Macrolide-specific efflux system,macAB-TolC,PMID: 11544226
+Erythromycin,Polyketide: Macrolides,12560,Efflux Pump,emrKY,PMID: 11566977
+Erythromycin,Polyketide: Macrolides,12560,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Erythromycin,Polyketide: Macrolides,12560,Deletion,crp,PMID: 18503189
+Erythromycin,Polyketide: Macrolides,12560,Drug transporter,evgA,PMID: 12618449
+Erythromycin,Polyketide: Macrolides,12560,Drug transporter,yjdG,PMID: 12618449
+Ethidium bromide,Trypanocidal agent,14710,Efflux Pump,emrKY,PMID: 11566977
+Ethidium bromide,Trypanocidal agent,14710,Multidrug resistance (MDR) translocator.,mdfA,PMID: 9079913
+Ethidium bromide,Trypanocidal agent,14710,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Ethidium bromide,Trypanocidal agent,14710,Multidrug resistance (MDR) translocator,yjiO,PMID: 11566977
+Ethidium bromide,Trypanocidal agent,14710,Efflux Pump,acrAB,PMID: 11566977
+Ethidium bromide,Trypanocidal agent,14710,Efflux Pump,acrEF,PMID: 11566977
+Ethidium bromide,Trypanocidal agent,14710,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Ethidium bromide,Trypanocidal agent,14710,Efflux Pump,emrE,PMID: 11566977
+Fidaxomicin,Polyketide: Macrolides,10034073,Macrolide-specific efflux system,macAB-TolC,PMID: 11544226
+Fidaxomicin,Polyketide: Macrolides,10034073,Mutation,rpoC,PMID: 24843001
+Florfenicol,Florfenicol,114811,Efflux Pump,floR,PMID: 15251195
+Fosfomycin,Fosfomycin,446987,Efflux Pump,emrKY,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Efflux Pump,bcr,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Fosfomycin,Fosfomycin,446987,Efflux transmembrane transporter,yegMNOB,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Transmembrane transporter,yceE,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Drug transporter,cusAB,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Transmembrane transporter,ydgFE,PMID: 11566977
+Fosfomycin,Fosfomycin,446987,Drug transporter,ompR,PMID: 12618449
+Fosfomycin,Fosfomycin,446987,Drug transporter,rcsB,PMID: 12618449
+Fosfomycin,Fosfomycin,446987,Drug transporter,yehT,PMID: 12618449
+Fosfomycin,Fosfomycin,446987,Drug transporter,citB,PMID: 12618449
+Fosfomycin,Fosfomycin,446987,Drug transporter,torR,PMID: 12618449
+Fosfomycin,Fosfomycin,446987,Drug transporter,rstA,PMID: 12618449
+Fosmidomycin,Organophosphonates,572,Multidrug resistance (MDR) translocator.,fsr,PMID: 8917080
+Fosmidomycin,Organophosphonates,572,Allele with the S222T mutation alters the fosmidomy-cin-binding site of Dxr,dxr,PMID: 26124156
+Fosmidomycin,Organophosphonates,572,Efflux Pump/ Potassium antipoter system,rosB,PMID: 25932050
+Gentamicin,Aminoglycoside,3467,Aminoglycoside modifying enzymes,aac(3)-IV,PMID: 19501867
+Gentamicin,Aminoglycoside,3467,Aminoglycoside modifying enzymes,ant(2”)-I (also known aadB),PMID: 21856840
+Gentamicin,Aminoglycoside,3467,Beta Lactamase,CTX-M β-lactamases,PMID: 19402960 
+Gentamicin,Aminoglycoside,3467,Multidrug resistance (MDR) translocator,acrD,PMID: 10692383 
+Hygromycin B,Aminoglycoside,35766,Aminoglycoside modifying enzymes,APH(4)-Ia,PMID: 21084294
+Hygromycin B,Aminoglycoside,35766,Multidrug resistance (MDR) translocator,acrD,PMID: 10692383 
+Imipenem,Beta Lactam: Carbapenem ,104838,Beta Lactamase,Bla(CTX-M-15),PMID: 22252797
+Imipenem,Beta Lactam: Carbapenem ,104838,Beta Lactamase,Bla(CMY-6),PMID: 22252797
+Imipenem,Beta Lactam: Carbapenem ,104838,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Imipenem,Beta Lactam: Carbapenem ,104838,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Imipenem,Beta Lactam: Carbapenem ,104838,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Imipenem,Beta Lactam: Carbapenem ,104838,16S rRNA methylase,armA,PMID: 22252797
+Kanamycin,Aminoglycoside,6032,Efflux pump,mdfA,PMID: 9079913
+Kanamycin,Aminoglycoside,6032,Aminoglycoside modifying enzymes,aph(3′)-Ia,PMID: 14506033
+Kanamycin,Aminoglycoside,6032,Aminoglycoside modifying enzymes,aph(3′)-Iia,PMID: 14506033
+Kanamycin,Aminoglycoside,6032,Aminoglycoside modifying enzymes,aac(3)-IV,PMID: 19501867
+Kanamycin,Aminoglycoside,6032,Aminoglycoside modifying enzymes,ant(2”)-I (also known aadB),PMID: 21856840
+Kanamycin,Aminoglycoside,6032,Down-regulation,OmpW,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Down-regulation,MipA,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Down-regulation,OmpA,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Down-regulation,FadL,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Up-regulation,Tsx,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Up-regulation,TolC,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Up-regulation,OstA,PMID: 25940639
+Kanamycin,Aminoglycoside,6032,Multidrug resistance (MDR) translocator.,bcr,PMID: 11566977
+Kanamycin,Aminoglycoside,6032,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Kanamycin,Aminoglycoside,6032,Catalase-peroxidase,katG,PMID: 29732452
+Kanamycin,Aminoglycoside,6032,Two Component system,cpxRA,PMID: 12618449
+Kanamycin,Aminoglycoside,6032,Drug transporter,rcsB,PMID: 12618449
+Kanamycin,Aminoglycoside,6032,Drug transporter,fimZ,PMID: 12618449
+Kanamycin,Aminoglycoside,6032,Drug transporter,kdpE,PMID: 12618449
+Kanamycin,Aminoglycoside,6032,Drug transporter,narL,PMID: 12618449
+Kanamycin,Aminoglycoside,6032,Drug transporter,yedW,PMID: 12618449
+Kasugamycin,Aminoglycoside,65174,Inactivation,ksgA,PMID: 25932050
+Kirromycin,Polyketide: Elfamycins,135484176,Genes code for EF-Tu-specific inhibitor,tufA,PMID: 7001448
+Kirromycin,Polyketide: Elfamycins,135484176,Genes code for EF-Tu-specific inhibitor,tufB,PMID: 7001448
+Linezolid,Oxazolidinone,441401,Mutations in genes encoding the domain V of the 23S rRNA and/or the ribosomal proteins L3 and L4 (rplC and rplD  respectively)  and methylation of A2503 (E. Coli numbering) in the 23S rRNA mediated by the Cfr enzyme.,rplC,PMID: 27227291
+Linezolid,Oxazolidinone,441401,Mutations in genes encoding the domain V of the 23S rRNA and/or the ribosomal proteins L3 and L4 (rplC and rplD  respectively)  and methylation of A2503 (E. Coli numbering) in the 23S rRNA mediated by the Cfr enzyme.,rplD,PMID: 27227291
+Meropenem,Beta Lactam: Carbapenem ,441130,Beta Lactamase,Bla(CTX-M-15),PMID: 22252797
+Meropenem,Beta Lactam: Carbapenem ,441130,Beta Lactamase,Bla(CMY-6),PMID: 22252797
+Meropenem,Beta Lactam: Carbapenem ,441130,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Meropenem,Beta Lactam: Carbapenem ,441130,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Meropenem,Beta Lactam: Carbapenem ,441130,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Meropenem,Beta Lactam: Carbapenem ,441130,16S rRNA methylase,armA,PMID: 22252797
+Methylnitronitrosoguanidine,Alkylating agent,135436526,IMP,ada+,PMID: 6092060
+Methylnitrosourea,Alkylating agent,12699,IMP,ada+,PMID: 6092060
+Microcin 25,Biocide,NA,Inactivation,FhuA,PMID: 8244949
+Minocycline,Polyketide: Tetracycline,54675783,Efflux pump,yhiV,PMID: 21048014
+Minocycline,Polyketide: Tetracycline,54675783,Efflux pump,acrAB,PMID: 11566977
+Minocycline,Polyketide: Tetracycline,54675783,Efflux pump,acrEF,PMID: 11566977
+Mitomycin C,Antineoplastic agent,5746,Efflux pump,mdfA,PMID: 11244065
+Mitomycin C,Antineoplastic agent,5746,Inhibitor of DNA gyrase,gyrl,PMID: 11244065
+Mitomycin C,Antineoplastic agent,5746,Activates Efflux pumps (it possess 50% identical similarity in amino acids to SoxS and MarA  also activates few of SoxS and MarA dependent activation genes),rob,PMID: 11244065
+Mitomycin C,Antineoplastic agent,5746,Transcriptional regulator,SdiA,PMID: 11244065
+Morpholinepropanesulfonic acid,Buffer,70807,Arginine decarboxylase,adiA,PMID: 7608084
+Morpholinepropanesulfonic acid,Buffer,70807,Glutamate decarboxylase,gadA,PMID: 19942657
+Morpholinepropanesulfonic acid,Buffer,70807,Glutamate decarboxylase,gadB,PMID: 19942657
+Morpholinepropanesulfonic acid,Buffer,70807,Glutamate decarboxylase,gadC,PMID: 19942657
+Morpholinepropanesulfonic acid,Buffer,70807,Regulon,gadE,PMID: 19942657
+Morpholinepropanesulfonic acid,Buffer,70807,Regulon,rpoS,PMID: 19942657
+Morpholinepropanesulfonic acid,Buffer,70807,Regulon,ydeP,PMID: 12694615
+Morpholinepropanesulfonic acid,Buffer,70807,Regulon,ydeO,PMID: 12694615
+Morpholinepropanesulfonic acid,Buffer,70807,Regulon Inactivation,rpoN,PMID: 19942657
+Morpholinepropanesulfonic acid,Buffer,70807,Regulon,gadX,PMID: 14617649
+Morpholinepropanesulfonic acid,Buffer,70807,When gadX is absent,gadW,PMID: 12446650
+Morpholinepropanesulfonic acid,Buffer,70807,negative regulation with the help of gadX  inhibits resistance,gadW,PMID: 12446650
+Morpholinoethanesulfonic acid,Buffer,78165,Arginine decarboxylase,adiA,PMID: 7608084
+Moxalactam,Beta Lactam: Cephem,47499,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Moxalactam,Beta Lactam: Cephem,47499,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Mupirocin(pseudomonic acid),Carboxylic acid,446596,Mutation,ileS,PMID: 7929087
+Myxopyronin,Alpha-pyrone,136669146,Mutation,rpoC,PMID: 24843001
+Nalidixic Acid,Quinolone,4421,Horizontal Gene Transfer,Integron 1,PMID: 26889395
+Nalidixic Acid,Quinolone,4421,Efflux pump/ Multi component system,EmrAB operon,PMID: 9710669
+Nalidixic Acid,Quinolone,4421,Efflux pump,acrAB,PMID: 8550435
+Nalidixic Acid,Quinolone,4421,Efflux pump,marA,PMID: 21048014
+Nalidixic Acid,Quinolone,4421,Efflux pump,emrB,PMID: 1409590
+Nalidixic Acid,Quinolone,4421,negative regulation,LamB,PMID: 24412198
+Nalidixic Acid,Quinolone,4421,Efflux transmembrane transporter,yegMNOB,PMID: 11566977
+Nalidixic Acid,Quinolone,4421,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Nalidixic Acid,Quinolone,4421,Efflux pump,acrEF,PMID: 11566977
+Nalidixic Acid,Quinolone,4421,Transmembrane transporter,ydgFE,PMID: 11566977
+Neomycin,Aminoglycoside,8378,Aminoglycoside modifying enzymes,aac(3)-IV,PMID: 19501867
+Neomycin,Aminoglycoside,8378,Aminoglycoside modifying enzymes,aph(3′)-Ia,PMID: 14506033
+Neomycin,Aminoglycoside,8378,Aminoglycoside modifying enzymes,aph(3′)-IIa,PMID: 14506033
+Neomycin,Aminoglycoside,8378,Efflux pump,acrD,PMID: 10692383 
+Nitrofurantoin,Nitrofuran,6604200,Plasmid mediated Efflux Pump,oqxAB,PMID: 26552976
+Norfloxacin,Fluoroquinolone,4539,Multidrug Efflux Pump,ydhE,PMID: 12615854
+Norfloxacin,Fluoroquinolone,4539,Multidrug resistance (MDR) translocator.,mdfA,PMID: 9079913
+Norfloxacin,Fluoroquinolone,4539,Efflux transmembrane transporter,yegMNOB,PMID: 11566977
+Norfloxacin,Fluoroquinolone,4539,Transmembrane transporter,yceL,PMID: 11566977
+Norfloxacin,Fluoroquinolone,4539,Multidrug resistance (MDR) translocator,yjiO,PMID: 11566977
+Norfloxacin,Fluoroquinolone,4539,Efflux pump,acrAB,PMID: 11566977
+Norfloxacin,Fluoroquinolone,4539,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Norfloxacin,Fluoroquinolone,4539,Efflux pump,acrEF,PMID: 11566977
+Novobiocin,Aminocoumarin,54675769,Response regulator which stimulate multidrug transporter ABC expression,baeR,PMID: 12107133
+Novobiocin,Aminocoumarin,54675769,Efflux pump,acrEF,PMID: 10518736
+Novobiocin,Aminocoumarin,54675769,Efflux pump,acrAB,PMID: 10518736
+Novobiocin,Aminocoumarin,54675769,Efflux pump,emrKY,PMID: 11566977
+Novobiocin,Aminocoumarin,54675769,Efflux transmembrane transporter,yegMNOB,PMID: 11566977
+Novobiocin,Aminocoumarin,54675769,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Novobiocin,Aminocoumarin,54675769,Drug transporter,evgA,PMID: 12618449
+Novobiocin,Aminocoumarin,54675769,Two Component system,cpxRA,PMID: 12618449
+Novobiocin,Aminocoumarin,54675769,Drug transporter,yjdG,PMID: 12618449
+Novobiocin,Aminocoumarin,54675769,Drug transporter,narL,PMID: 12618449
+Oxacillin,Beta Lactam: Penem ,6196,Deletion,crp,PMID: 18503189
+Paraquat,Viologen,15938,Efflux pump,emrKY,PMID: 11566977
+Paraquat,Viologen,15938,Efflux pump,emrAB,PMID: 11566977
+Paraquat,Viologen,15938,Efflux pump,acrEF,PMID: 11566977
+Paraquat,Viologen,15938,Efflux pump,emrE,PMID: 11566977
+Paraquat,Viologen,15938,Drug transporter,rcsB,PMID: 12618449
+Paraquat,Viologen,15938,Drug transporter,narP,PMID: 12618449
+Paraquat,Viologen,15938,Drug transporter,kdpE,PMID: 12618449
+Paraquat,Viologen,15939,Resistance gene Regulator,soxS,PMID: 8866468
+Paraquat,Viologen,15939,Resistance gene Regulator,soxR,PMID: 8866468
+Penicillin,Beta Lactam: Penam,2349,Beta Lactamase,Bla(NDM-1),PMID: 25092693
+Penicillin,Beta Lactam: Penam,2349,Beta Lactamase,Bla(NDM-12),PMID: 25092693
+Piperacillin,Beta Lactam: Penam,43672,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Polymyxin B,Peptide drug,49800004,Two Component system,acrAB-Tolc,PMID: 19926649
+Polymyxin B,Peptide drug,49800004,Phosphorylation of undecaprenol,bacA,PMID: 8389741
+Polymyxin B,Peptide drug,49800004,Target modification,arnA,PMID: 25932050
+Polymyxin B,Peptide drug,49800004,Target modification,arnB,PMID: 17928292
+Polymyxin B,Peptide drug,49800004,Target modification,arnC,PMID: 17928292
+Polymyxin B,Peptide drug,49800004,Target modification,arnD,PMID: 17928292
+Polymyxin B,Peptide drug,49800004,Target modification,arnE,PMID: 17928292
+Polymyxin B,Peptide drug,49800004,Target modification,arnF,PMID: 17928292
+Polymyxin B,Peptide drug,49800004,Target modification,arnT,PMID: 17928292
+Polymyxin B,Peptide drug,49800004,Modification to the lipid A by promoting addition of pEtN and l-Ara4N to the lipid A under PhoPQ-activating conditions.,pmrD,PMID: 25605366
+Polymyxin B,Peptide drug,49800004,Phosphoethanolamine transferase,eptA,PMID: 30834329
+Potassium antimony tartrate,Biocide,56846568,Arsenical resistance operon repressor,arsR,PMID: 7860609
+Potassium antimony tartrate,Biocide,56846568,Arsenical resistance operon repressor,arsB,PMID: 7860609
+Potassium antimony tartrate,Biocide,56846568,Arsenical resistance operon repressor,arsC,PMID: 7860609
+Puromycin,Aminoglycoside,439530,Efflux pump,mdfA,PMID: 9079913
+Rhodamine,Xanthenes,6694,Efflux pump,mdfA,PMID: 9079913
+Rhodamine 6G,Xanthenes,13806,Drug transporter,evgA,PMID: 12618449
+Rhodamine 6G,Xanthenes,13806,Efflux pump,emrKY,PMID: 11566977
+Rhodamine 6G,Xanthenes,13806,Efflux pump,emrAB,PMID: 11566977
+Rhodamine 6G,Xanthenes,13806,Efflux pump,acrAB,PMID: 11566977
+Rhodamine 6G,Xanthenes,13806,Efflux pump,acrEF,PMID: 11566977
+Rhodamine 6G,Xanthenes,13806,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Rifampin,Polyketide: Ansamycins,135398735,Efflux pump,mdfA,PMID: 9079913
+Rifampin,Polyketide: Ansamycins,135398735,Efflux pump,acrAB,PMID: 8550435
+Rifampin,Polyketide: Ansamycins,135398735,Single-step point mutation,rpoB,PMID: 27227291
+Rifampin,Polyketide: Ansamycins,135398735,Mutation,rpoC,PMID: 24843001
+Salinamide A,Depsipeptide,6442253,Mutation,rpoC,PMID: 24843001
+Salinamide B,Depsipeptide,22953478,Mutation,rpoC,PMID: 24843001
+Sitafloxacin,Fluoroquinolone,461399,Efflux pump,mdfA,PMID: 21048014
+Sodium arsenite,Biocide,443495,Arsenical resistance operon repressor,arsR,PMID: 7860609
+Sodium arsenite,Biocide,443495,Arsenical resistance operon repressor,arsB,PMID: 7860609
+Sodium arsenite,Biocide,443495,Arsenical resistance operon repressor,arsC,PMID: 7860609
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Efflux pump,emrKY,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Efflux pump,emrAB,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Efflux pump,emrD,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Efflux transmembrane transporter,yegMNOB,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Efflux pump,acrAB,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Efflux pump,acrEF,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Transmembrane transporter,ydgFE,PMID: 11566977
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Drug transporter,evgA,PMID: 12618449
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Two Component system,baeRS,PMID: 12618449
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Drug transporter,yjdG,PMID: 12618449
+Sodium dodecyl sulfate,Anionic surfactant,3423265,OMP regulator,ompR,PMID: 12618449
+Sodium dodecyl sulfate,Anionic surfactant,3423265,Drug transporter,narP,PMID: 12618449
+Sodium metaarsenate,Biocide,23675353,Arsenical resistance operon repressor,arsR,PMID: 7860609
+Sodium metaarsenate,Biocide,23675353,Arsenical resistance operon repressor,arsB,PMID: 7860609
+Sodium metaarsenate,Biocide,23675353,Arsenical resistance operon repressor,arsC,PMID: 7860609
+Streptolydigin,Tetramic Acid,54708748,Mutation,rpoC,PMID: 24843001
+Streptomycin,Aminoglycoside,19649,Aminoglycoside modifying enzymes,APH3 also known as strA,PMID: 9988047
+Streptomycin,Aminoglycoside,19649,Aminoglycoside modifying enzymes,APH6 also known as strB,PMID: 9988047
+Streptomycin,Aminoglycoside,19649,Aminoglycoside modifying enzymes,ant(3'')-Ia (also known as aadA),PMID: 21856840
+Streptomycin,Aminoglycoside,19649,Up-regulation,TolC,PMID: 18680355
+Streptomycin,Aminoglycoside,19649,Up-regulation,OmpT,PMID: 18680355
+Streptomycin,Aminoglycoside,19649,Down-regulation,FadL,PMID: 18680355
+Streptomycin,Aminoglycoside,19649,Down-regulation,Dps,PMID: 18680355
+Streptomycin,Aminoglycoside,19649,Two Component system,acrAB-Tolc,PMID: 24412198 
+Streptomycin,Aminoglycoside,19649,Multidrug resistance (MDR) translocator,acrD,PMID: 10692383 
+Sulfachloropyridazine,Sulfonamide,6634,Efflux pump,yjcRQP,PMID: 19429622
+Sulfadiazine,Sulfonamide,5215,Transcriptional regulator,LeuO,PMID: 19429622
+Sulfadiazine,Sulfonamide,5215,Efflux pump,yjcRQP,PMID: 19429622
+Sulfamethazine,Sulfonamide,5327,Efflux pump,EmrE protein,PMID: 9710669
+Sulfamethazine,Sulfonamide,5327,Efflux pump,yjcRQP,PMID: 19429622
+Sulfamethoxazole,Sulfonamide,5329,Dihydropteroate synthase,Sul1,PMID: 24423710
+Sulfamethoxazole,Sulfonamide,5329,Dihydropteroate synthase,Sul2,PMID: 24423710
+Sulfamethoxazole,Sulfonamide,5329,Dihydropteroate synthase,Sul3,PMID: 24423710
+Sulfamethoxazole,Sulfonamide,5329,Efflux pump,yjcRQP,PMID: 19429622
+Sulfamonomethoxine,Sulfonamide,5332,Efflux pump,yjcRQP,PMID: 19429622
+Sulfanilamide,Sulfonamide,5333,Efflux pump,yjcRQP,PMID: 19429622
+Sulfathiazole,Sulfonamide,5340,Efflux pump,yjcRQP,PMID: 19429622
+Sulfathiazole,Sulfonamide,5340,Multidrug resistance (MDR) translocator.,bcr,PMID: 2694948
+Telithromycin,Polyketide: Macrolides,3002190,Two Component system,acrAB-Tolc,PMID: 15328143
+Telithromycin,Polyketide: Macrolides,3002190,Mutation,U2609C of 23S rRNA,PMID: 11698379
+Tetracycline,Polyketide: Tetracycline,54675776,Tetracycline resistance protein-,tetA,PMID: 20374640
+Tetracycline,Polyketide: Tetracycline,54675776,Tetracycline resistance protein-,tetB,PMID: 20374640
+Tetracycline,Polyketide: Tetracycline,54675776,Tetracycline resistance protein-,tetC,PMID: 20374640
+Tetracycline,Polyketide: Tetracycline,54675776,Tetracycline resistance protein-,tetD,PMID: 20374640
+Tetracycline,Polyketide: Tetracycline,54675776,Tetracycline resistance protein-,tetE,PMID: 20374640
+Tetracycline,Polyketide: Tetracycline,54675776,Tetracycline resistance protein-,tetG,PMID: 20374640
+Tetracycline,Polyketide: Tetracycline,54675776,Efflux pump,mdfA,PMID: 9079913
+Tetracycline,Polyketide: Tetracycline,54675776,Efflux pump,EmrE protein,PMID: 9710669
+Tetracycline,Polyketide: Tetracycline,54675776,Efflux pump,acrAB,PMID: 8550435
+Tetracycline,Polyketide: Tetracycline,54675776,Horizontal Gene Transfer,Integron 1,PMID: 26889395
+Tetracycline,Polyketide: Tetracycline,54675776,Up-regulation,TolC,PMID: 18620846
+Tetracycline,Polyketide: Tetracycline,54675776,Up-regulation,OmpC,PMID: 18620846
+Tetracycline,Polyketide: Tetracycline,54675776,Down-regulation,LamB,PMID: 18620846
+Tetracycline,Polyketide: Tetracycline,54675776,Multidrug resistance (MDR) translocator.,bcr,PMID: 11566977
+Tetracycline,Polyketide: Tetracycline,54675776,Efflux pump,acrEF,PMID: 11566977
+Tetracycline,Polyketide: Tetracycline,54675776,Multidrug resistance (MDR) translocator,acrD,PMID: 11566977
+Tetracycline,Polyketide: Tetracycline,54675776,Repressor,marR,PMID: 8866468
+Tetracycline,Polyketide: Tetracycline,54675776,Resistance gene Regulator,marA,PMID: 8866468
+Tetracycline,Polyketide: Tetracycline,54675776,Resistance gene Regulator,marB,PMID: 8866468
+Tetraphenylphosphonium bromide,Biocide,2724163,Efflux pump,emrKY,PMID: 11566977
+Tetraphenylphosphonium bromide,Biocide,2724163,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Tetraphenylphosphonium bromide,Biocide,2724163,Multidrug resistance (MDR) translocator,yjiO,PMID: 11566977
+Tetraphenylphosphonium bromide,Biocide,2724163,Efflux pump,acrAB,PMID: 11566977
+Tetraphenylphosphonium bromide,Biocide,2724163,Efflux pump,acrEF,PMID: 11566977
+Tetraphenylphosphonium bromide,Biocide,2724163,Multidrug resistance (MDR) translocator,yhiUV,PMID: 11566977
+Tetraphenylphosphonium bromide,Biocide,2724163,Drug transporter,evgA,PMID: 12618449
+Thiolactomycin,Thiotetronate,135403829,Efflux pump/ Multi component system,EmrAB operon,PMID: 9710669
+Thiolactomycin,Thiotetronate,135403829,Single frame-shift Mutation in the repressor ,emrR,PMID: 7730261
+Ticarcillin,Beta Lactum: Penam,36921,Beta Lactamase,Bla(NDM-4),PMID: 22252797
+Tigecycline,Polyketide: Tetracycline,54686904,Mutation that encodes the ribosomal S10 protein,rpsJ,PMID: 26124155
+Tobramycin,Aminoglycoside,36294,Aminoglycoside modifying enzymes,aac(3)-IV,PMID: 6374024
+Tobramycin,Aminoglycoside,36294,Modification of enzyme,ant(2”)-I (also known aadB),PMID: 21856840
+Tobramycin,Aminoglycoside,36294,Efflux pump,acrD,PMID: 10692383 
+Triclosan,Biocide,5564,G93V mutation in the gene,fabI,PMID: 23437314
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dfrA1,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dfrA9,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dfrA12,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dfrA13,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dfr7,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dfr17,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dhfrV,PMID: 20374640
+Trimethoprim,Anisoles,5578,Modification of enzyme Dihydrofolate reductase,dhfrXIII,PMID: 14506033
+Trimethoprim,Anisoles,5578,Multidrug resistance (MDR) translocator.,mdfA,PMID: 9079913
+Trimethoprim,Anisoles,5578,Multidrug resistance (MDR) translocator,ydhE,PMID: 9661020
+Trimethoprim,Anisoles,5578,Efflux pump,acrAB,PMID: 11566977
+Trimethoprim,Anisoles,5578,Efflux pump,acrEF,PMID: 11566977
+Trimethoprim,Anisoles,5578,Single point mutation,folA,PMID: 14693514
+Vancomycin,Glycopeptide,14969,Mutation,rpoB,PMID: 27227291
+Drug_Name,Drug_class,Drug_Pubchem_ID,Resistance_gene_class,Resistance_genes_involved,Bibliography
+Amikacin,Aminoglycoside,37768,Beta lactamase,Bla(GES-18),PMID: 23114760
+Amikacin,Aminoglycoside,37768,Aminoglycoside acetyltransferase,AAC(6')-I,PMID: 8655211
+Amikacin,Aminoglycoside,37768,Aminoglycoside nucleotidyltransferase,ANT(4')-II,PMID: 15673721
+Ampicillin,Beta lactam,6249,Beta lactamase,Bla(AmpC),PMID: 11823954
+Azlocillin,Beta lactam,6479523,Efflux Pump,MexAB-OprM,PMID: 6821455
+Aztreonam,Beta lactam,5742832,Outer Membrane Protein,OprM,PMID:�7793866
+Aztreonam,Beta lactam,5742832,Efflux Pump,MexAB-OprM,PMID: 18676884
+Aztreonam,Beta lactam,5742832,Beta lactamase,Bla(OXA-18),PMID: 11869272
+Carbenicillin,Beta lactam,20824,Efflux Pump,MexAB-OprM,PMID: 18676884
+Carbenicillin,Beta lactam,20824,Efflux Pump,MexCD-OprM,PMID: 8585714
+Cefoperazone,Beta lactam,44187,Outer Membrane Protein,OprM,PMID:�7793866
+Cefoperazone,Beta lactam,44187,Efflux Pump,MexCD-OprJ,PMID: 11895293
+Cefepime,Beta lactam,5479537,Beta lactamase,Bla(TEM-42),PMID: 11869272
+Cefepime,Beta lactam,5479537,Beta lactamase,Bla(SHV-2a),PMID: 11869272
+Cefepime,Beta lactam,5479537,Beta lactamase,Bla(PER-I),PMID: 11869272
+Cefepime,Beta lactam,5479537,Efflux Pump,MexAB-OprM,PMID: 10223959
+Cefepime,Beta lactam,5479537,Efflux Pump,MexCD-OprJ,PMID: 11869272
+Cefoxitin,Beta lactam,441199,Beta lactamase,Bla(AmpC),PMID: 9738828
+Cefozopran,Beta lactam,9571080,Outer Membrane Protein,OprM,PMID:�7793866
+Cefozopran,Beta lactam,9571080,Efflux Pump,MexAB-OprM,PMID: 10223959
+Cefozopran,Beta lactam,9571080,Efflux Pump,MexCD-OprJ,PMID: 9687387
+Cefozopran,Beta lactam,9571080,Outer Membrane Protein,OprJ,PMID:�7793866
+Cefpirome,Beta lactam,5479539,Outer Membrane Protein,OprM,PMID:�7793866
+Cefpirome,Beta lactam,5479539,Beta lactamase,Bla(TEM-42),PMID: 11869272
+Cefpirome,Beta lactam,5479539,Beta lactamase,Bla(SHV-2a),PMID: 11869272
+Cefpirome,Beta lactam,5479539,Beta lactamase,Bla(PER-I),PMID: 11869272
+Cefpirome,Beta lactam,5479539,Efflux Pump,MexAB-OprM,PMID: 10223959
+Cefpirome,Beta lactam,5479539,Efflux Pump,MexCD-OprJ,PMID: 11869272
+Cefsulodin,Beta lactam,656575,Outer Membrane Protein,OprM,PMID:�7793866
+Cefsulodin,Beta lactam,656575,Efflux Pump,MexAB-OprM,PMID: 11083635
+Cefsulodin,Beta lactam,656575,Efflux Pump,MexCD-OprJ,PMID: 11083635
+Ceftazidime,Beta lactam,5481173,Beta lactamase,Bla(TEM-42),PMID: 11869272
+Ceftazidime,Beta lactam,5481173,Beta lactamase,Bla(SHV-2a),PMID: 11869272
+Ceftazidime,Beta lactam,5481173,Beta lactamase,Bla(PER-I),PMID: 11869272
+Ceftazidime,Beta lactam,5481173,Beta lactamase,Bla(OXA-18),PMID: 11869272
+Ceftazidime,Beta lactam,5481173,Beta lactamase,Bla(BEL-1),PMID: 19884378
+Ceftazidime,Beta lactam,5481173,Beta lactamase,Bla(IMP-1),PMID: 12830405
+Ceftazidime,Beta lactam,5481173,Outer Membrane Protein,OprM,PMID:�7793866
+Ceftazidime,Beta lactam,5481173,Efflux Pump,MexAB-OprM,PMID: 11083635
+Cephalothin,Beta lactam,6024,Beta lactamase,Bla(AmpC),PMID: 11823954
+Cerulenin,Cerulenin,5282054,Efflux Pump,MexCD-OprJ,PMID: 9527792
+Cerulenin,Cerulenin,5282054,Efflux Pump,MexAB-OprM,PMID: 9527792
+Chloramphenicol,Chloramphenicol,5959,Efflux Pump,MexAB-OprK,PMID: 8226684
+Chloramphenicol,Chloramphenicol,5959,Efflux Pump,MexAB-OprM,PMID: 9527792
+Chloramphenicol,Chloramphenicol,5959,Efflux Pump,MexEF-OprN,PMID: 11158756
+Ciprofloxacin,Quinolones,2764,Efflux Pump,MexAB-OprK,PMID: 8226684
+Ciprofloxacin,Quinolones,2764,Outer Membrane Protein,OprM,PMID:�7793866
+Ciprofloxacin,Quinolones,2764,Beta lactamase,Bla(GES-18),PMID: 23114760
+Ciprofloxacin,Quinolones,2764,Beta lactamase,Bla(IMP-1),PMID: 12830405
+Co-amoxiclav,Co-amoxiclav,23665637,Beta lactamase,Bla(AmpC),PMID: 9738828
+Erythromycin,Polyketide,12560,Efflux Pump,MexAB-OprM,PMID: 9527792
+Erythromycin,Polyketide,12560,Efflux Pump,MexCD-OprJ,PMID: 11158756
+Erythromycin,Polyketide,12560,Efflux Pump,MexXY,PMID: 11158756
+Fleroxacin,Quinolones,3357,Outer Membrane Protein,OprM,PMID:�7793866
+Flomoxef,Beta lactam,3357,Efflux Pump,MexAB-OprM,PMID: 11083635
+Flomoxef,Beta lactam,3357,Efflux Pump,MexCD-OprJ,PMID: 11083635
+Fluoroquinolones,Fluoroquinolone,134224092,Efflux Pump,MexAB-OprM,PMID: 9527792
+Fusidic Acid,Fusidic Acid,3000226,Efflux Pump,MexAB-OprM,PMID: 9527792
+Gentamicin,Aminoglycoside,3467,Outer Membrane Protein,OprH,PMID: 6259125
+Gentamicin,Aminoglycoside,3467,Genomic Locus,amrAB locus and amrAB gene,PMID: 10582892
+Gentamicin,Aminoglycoside,3467,Aminoglycoside nucleotidyltransferase,"ANT(2"")-I",PMID: 15673721
+Gentamicin,Aminoglycoside,3467,Aminoglycoside phosphoryltransferase�,"APH(2"")",PMID: 8655211
+Gentamicin,Aminoglycoside,3467,Beta lactamase,Bla(IMP-1),PMID: 12830405
+Gentamicin,Aminoglycoside,3467,Beta lactamase,Bla(GES-18),PMID: 23114760
+Imipenem,Beta lactam,104838,Outer Membrane Protein,OprD,PMID:�10223918
+Imipenem,Beta lactam,104838,Outer Membrane Protein,MexT,PMID:�10223918
+Imipenem,Beta lactam,104838,Efflux Pump,MexAB-OprM,PMID: 17483142
+Imipenem,Beta lactam,104838,Efflux Pump,MexXY-OprM,PMID: 17483142
+Imipenem,Beta lactam,104838,Beta lactamase,VIM-2,PMID: 11897589
+Imipenem,Beta lactam,104838,Beta lactamase,VIM-4,PMID: 17483142
+Imipenem,Beta lactam,104838,Beta lactamase,Bla(IMP-1),PMID: 12830405
+Imipenem,Beta lactam,104838,Beta lactamase,Bla(P1b),PMID: 17483142
+Imipenem,Beta lactam,104838,Aminoglycoside acetyltransferase,AAC(6�)-Ib,PMID: 17483142
+Imipenem,Beta lactam,104838,Beta lactamase,OXA-35,PMID: 17483142
+Imipenem,Beta lactam,104838,Beta lactamase,IMP1,PMID: 11869272
+Imipenem,Beta lactam,104838,Beta lactamase,GES-18,PMID: 23114760
+Isepamicin,Aminoglycoside,3037209,Aminoglycoside phosphoryltransferase,APH(3')-VI�,PMID: 8655211
+Isepamicin,Aminoglycoside,3037209,Aminoglycoside nucleotidyltransferase,ANT(4')-II,PMID: 15673721
+Kanamycin,Aminoglycoside,6032,Aminoglycoside phosphoryltransferase,APH(3')-IIb,PMID: 15673721
+Lomefloxacin,Quinolones,3948,Outer Membrane Protein,OprM,PMID:�7793866
+Meropenem,Beta lactam,441130,Outer Membrane Protein,OprM,PMID:�7793866
+Meropenem,Beta lactam,441130,Efflux Pump,MexAB-OprM,PMID: 17483142
+Meropenem,Beta lactam,441130,Efflux Pump,MexXY-OprM,PMID: 17483142
+Meropenem,Beta lactam,441130,Beta lactamase,VIM-4,PMID: 17483142
+Meropenem,Beta lactam,441130,Beta lactamase,GES-18,PMID: 23114760
+Meropenem,Beta lactam,441130,Beta lactamase,P1b,PMID: 17483142
+Meropenem,Beta lactam,441130,Beta lactamase,AAC(6�)-Ib,PMID: 17483142
+Meropenem,Beta lactam,441130,Beta lactamase,OXA-35,PMID: 17483142
+Meropenem,Beta lactam,441130,Beta lactamase,IMP1,PMID: 11869272
+Meropenem,Beta lactam,441130,Beta lactamase,NDM-1,PMID: 30271939
+Moxalactam,Beta lactam,47499,Efflux Pump,MexAB-OprM,PMID: 11083635
+Nalidixic Acid,Quinolones,4421,Efflux Pump,MexAB-OprK,PMID: 8226684
+Netilmicin,Aminoglycoside,441306,Aminoglycoside acetyltransferase,AAC(6')-I,PMID: 8655211
+Norfloxacin,Quinolones,4539,Outer Membrane Protein,OprM,PMID:�7793866
+Novobiocin,Aminocoumarin,54675769,Efflux Pump,MexAB-OprM,PMID: 9527792
+Novobiocin,Aminocoumarin,54675769,Efflux Pump,MexCD-OprJ,PMID: 11083635
+Penicillin G,Beta lactam,5904,Beta lactamase,Bla(AmpC),PMID: 11869272
+Pipemidic Acid,Pyridopyrimidine,4831,Efflux Pump,MexAB-OprM,PMID: 6821455
+Rifampin,Polyketide,5381226,Efflux Pump,MexAB-OprM,PMID: 9527792
+Sparfloxacin,Quinolones,60464,Outer Membrane Protein,OprM,PMID:�7793866
+Streptomycin,Aminoglycoside,19649,Aminoglycoside nucleotidyltransferase,"ANT(3"")",PMID: 15673721
+Streptonigrin,Aminoquinone,5351165,Efflux Pump,MexAB-OprK,PMID: 8226684
+Sulbenicillin,Beta lactam,20055036,Efflux Pump,MexAB-OprM,PMID: 11083635
+Sulfamethoxazole,Sulfonamide,5329,Outer Membrane Protein,OprM,PMID: 9036831
+Tetracycline,Polyketide,54675776,Efflux Pump,MexAB-OprK,PMID: 8226684
+Tetracycline,Polyketide,54675776,Efflux Pump,MexAB-OprM,PMID: 9527792
+Tetracycline,Polyketide,54675776,Efflux Pump,MexXY,PMID: 11158756
+Thiolactomycin,Thiolactomycin,445629,Efflux Pump,MexAB-OprM,PMID: 9527792
+Ticarcillin,Beta lactam,36921,Beta lactamase,Bla(BEL-1),PMID: 19884378
+Tigecycline,Polyketide,54686904,Efflux Pump,MexXY,PMID: 12604529
+Tobramycin,Aminoglycoside,36294,Beta lactamase,Bla(GES-18),PMID: 23114760
+Tobramycin,Aminoglycoside,36294,Aminoglycoside acetyltransferase,AAC(6')-I,PMID: 8655211
+Tobramycin,Aminoglycoside,36294,Aminoglycoside phosphoryltransferase,"APH(2"")",PMID: 8655211
+Tobramycin,Aminoglycoside,36294,Aminoglycoside nucleotidyltransferase,"ANT(2"")-I",PMID: 15673721
+Tobramycin,Aminoglycoside,36294,Aminoglycoside nucleotidyltransferase,ANT(4')-II,PMID: 15673721
+Tosufloxacin,Quinolones,5517,Outer Membrane Protein,OprM,PMID:�7793866
+Triclosan,Triclosan,5564,Efflux Pump,MexAB-OprM,PMID: 9527792
+Triclosan,Triclosan,5564,Efflux Pump,MexCD-OprJ,PMID: 11158736
+Triclosan,Triclosan,5564,Efflux Pump,TriABC,PMID: 17720796
+Trimethoprim,Anisoles,5578,Outer Membrane Protein,OprM,PMID: 9036831
+Trimethoprim,Anisoles,5578,Outer Membrane Protein,OprJ,PMID: 9036831
+Trimethoprim,Anisoles,5578,Efflux Pump,MexAB-OprM,PMID: 11895293
+Trimethoprim,Anisoles,5578,Efflux Pump,MexEF-OprN,PMID: 11158756
